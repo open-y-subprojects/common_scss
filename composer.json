@@ -3,8 +3,8 @@
   "description": "Common scss references for Open Y themes.",
   "type": "drupal-theme",
   "require": {
-    "openy-y-subprojects/openy_features": "*",
-    "openy-y-subprojects/openy_node_alert": "*"
+    "open-y-subprojects/openy_features": "*",
+    "open-y-subprojects/openy_node_alert": "*"
   },
   "license": "GPL-2.0+",
   "minimum-stability": "dev"
